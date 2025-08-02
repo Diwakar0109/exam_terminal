@@ -1,0 +1,24 @@
+{
+  "session_id": "ed06fa5c-dc53-43f7-972c-f1375f2ef54f",
+  "answers": [
+    {
+      "question_id": "q1",
+      "code": "n=1\n",
+      "output": "Submission output not collected"
+    },
+    {
+      "question_id": "q2",
+      "code": "print(n)\n",
+      "output": "Submission output not collected"
+    },
+    {
+      "question_id": "q3",
+      "code": "import numpy as np\n\ndef get_evens(arr):\n  # Your code here\n  pass\n",
+      "output": "Submission output not collected"
+    }
+  ],
+  "final_score": {
+    "passed": 0,
+    "total": 7
+  }
+}
